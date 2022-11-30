@@ -1,4 +1,4 @@
-## Olá eu sou o Eduardo Souza, estou estudando para me tornar um Dev. Front End!
+## Olá eu sou o Eduardo Souza, futuro Dev. FrontEnd, seja bem vindo(a) ao meu perfil!
 <div align="center">
   <a href="https://github.com/eduardo-souza21">
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-souza21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
