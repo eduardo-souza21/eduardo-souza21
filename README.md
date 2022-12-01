@@ -5,11 +5,11 @@
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-souza21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D03AQFCeP5OyQB3Lw/profile-displayphoto-shrink_800_800/0/1669747313605?e=1675296000&v=beta&t=Ej6j7CcdHcB6kkwv11Q1kgPs0UtGAWG8KRWY1xqAGyo">
+  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
+  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D03AQFCeP5OyQB3Lw/profile-displayphoto-shrink_800_800/0/1669747313605?e=1675296000&v=beta&t=Ej6j7CcdHcB6kkwv11Q1kgPs0UtGAWG8KRWY1xqAGyo">
 </div>
   
   ##
